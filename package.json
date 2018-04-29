@@ -7,10 +7,6 @@
   "license": "MIT",
   "dependencies": {
     "whatwg-fetch": "1.0.0"
-
-
-
-
   },
   "devDependencies": {
     "babel-cli": "6.16.0",
